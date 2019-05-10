@@ -31,6 +31,11 @@ void loop(){
 ```
 
 
+# Requerimientos
+
+En desarrollo de software se parte de las necesidades de un cliente para implementar un sistema. En este ejemplo y para explicar la OOP con Arduino se requiere que un Led Difuso se encienda y se apague cada 100ms. 
+
+
 # Empezando con OOP y Arduino
 
 Antes de empezar es necesario tener claro los siguientes conceptos para poder entender la teoria de objetos en la programación. Aqui solo explicare los conceptos basicos para adentrarnos en este paradigma de programación.
