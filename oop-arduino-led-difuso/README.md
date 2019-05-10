@@ -6,14 +6,14 @@ Programación orientada a objetos. Ejemplo Led Difuso.
 
 La programación orientada a objetos con Arduino es la forma más clara de explicar el concepto de lo real y abstracto que rodea nuestro entorno. Permite interactuar directamente con componentes electrónicos que por definición propia son objetos del mundo real. 
 
-**Nota**
+**Nota:**
 Hay que diferenciar entre programar objetos con Arduino y programar bajo el concepto de programación orientada a objetos. Es totalmente diferente.
 
 El ejemplo más popular de interaccion y control de un objeto es el hola mundo de Arduino. Este consiste en encender un led que viene conectado en el pin 13 de la board Arduino.
 
 **Mira este ejemplo sin OOP**
 
-Este es el ejemplo de interacción del cual te mencione anteriormente. Aquí se programa el funcionamiento de un Led, pero no se aplica el concepto de la programación orientada a objetos.
+Este es el ejemplo de interacción del cual te mencione anteriormente. Aquí se programa el funcionamiento de un Led.
 
 ```C
 const int ledPIN = 13;
