@@ -7,7 +7,7 @@
 *           Diego Armando Dorado                             *
 *           Information Systems Analyst                      *
 * Know more in:                                              *
-*           https://github.com/darmanddm                     *
+*           https://github.com/dieguindorado                 *
 *           https://armandosistemas.com/                     *
 * Description:                                               *
 *           Creation of the Dht22 sensor object              *
