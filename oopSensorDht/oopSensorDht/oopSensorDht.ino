@@ -7,10 +7,10 @@
 *           Diego Armando Dorado                             *
 *           Information Systems Analyst                      *
 * Know more in:                                              *
-*           https://github.com/darmanddm                     *
+*           https://github.com/dieguindorado                 *
 *           https://armandosistemas.com/                     *
 * Description:                                               *
-*           Creation of the Dht sensor object                       *
+*           Creation of the Dht sensor object                *
 * Observation:                                               *
 *           In the .ino file goes the business logic of      *
 *           the system or the general deployment of the      *           
