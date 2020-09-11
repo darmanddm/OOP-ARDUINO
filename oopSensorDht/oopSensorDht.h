@@ -30,12 +30,12 @@ class Dht{
 		Declares a variable of type object making use of
 		the DHT.h library. In this variable the parameters
 		of the constructor will be saved.
-    ========================================================*/
+        ========================================================*/
 	DHT dht; 
 	/*============== Variables for Methods =================*/
-    int humidity;
-    int temperature;           
-    public:
+        int humidity;
+        int temperature;           
+        public:
     	/*=================== CONSTRUCTOR===================*/
     	/*====================================================
             The _pinSensor and _sensorType parameter is
